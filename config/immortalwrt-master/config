@@ -8571,13 +8571,13 @@ CONFIG_BUILD_qt5base-gui_OPENGL_NONE=y
 # end of Font-Utils
 # end of Xorg
 # CONFIG_PACKAGE_luci-app-wechatpush is not set
-CONFIG_PACKAGE_luci-app-watchcat=y
+# CONFIG_PACKAGE_luci-app-watchcat is not set
 CONFIG_PACKAGE_luci-app-mosdns=y
 CONFIG_PACKAGE_luci-app-nikki=y
 # CONFIG_PACKAGE_luci-app-openclash is not set
 
 # CONFIG_PACKAGE_luci-i18n-wechatpush-zh-cn is not set
-CONFIG_PACKAGE_luci-i18n-watchcat-zh-cn=y
+# CONFIG_PACKAGE_luci-i18n-watchcat-zh-cn=y
 CONFIG_PACKAGE_luci-i18n-mosdns-zh-cn=y
 CONFIG_PACKAGE_luci-i18n-nikki-zh-cn=y
 CONFIG_PACKAGE_luci-theme-argon=y
